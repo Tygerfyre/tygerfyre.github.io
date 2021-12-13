@@ -16,7 +16,8 @@ img{
     border-color: white;
     display:grid;
     grid-gap: 10px;
+    width: 100%;
 }
 .ArtTableItem{
-  
+
 }
