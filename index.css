@@ -14,9 +14,10 @@ img{
 .ArtTable{
     border-style: solid;
     border-color: white;
-    display:flex;
+    display:grid;
+    grid-gap: 10px;
     width: 100%;
-    justify-content: space-evenly;
+    grid-template-columns: 33% 33% 33%;
 }
 .ArtTableItem{
   text-align: center;
