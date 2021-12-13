@@ -14,11 +14,15 @@ img{
 .ArtTable{
     border-style: solid;
     border-color: white;
-    display:grid;
-    grid-gap: 10px;
+    display:flex;
     width: 100%;
-    grid-template-columns: 33% 33% 33%;
+    justify-content: space-evenly;
 }
 .ArtTableItem{
-  align-items: center;
+  text-align: center;
+}
+.center{
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
 }
