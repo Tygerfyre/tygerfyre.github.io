@@ -1,8 +1,13 @@
 body{
-    background-color: midnightblue;
-    color:white;
+    background-color: pink;
+    color:midnightblue;
 }
 h1{
   text-align: center;
   background-color: lightCyan;
+}
+.ArtTable{
+    border-style: solid;
+    border-color: white;
+    width: "33%";
 }
