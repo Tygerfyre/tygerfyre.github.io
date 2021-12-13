@@ -6,8 +6,11 @@ h1{
   text-align: center;
   background-color: gray;
 }
+img{
+  width: 33%;
+  height: auto;
+}
 .ArtTable{
     border-style: solid;
     border-color: white;
-    width: "33%";
 }
