@@ -9,8 +9,10 @@ h1{
 img{
   width: 33%;
   height: auto;
+  object-fit: contain;
 }
 .ArtTable{
     border-style: solid;
     border-color: white;
+
 }
